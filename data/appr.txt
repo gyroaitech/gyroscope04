@@ -1,0 +1,134 @@
+Air Passenger Protection Regulations
+SOR/2019-150
+CANADA TRANSPORTATION ACT
+Registration 2019-05-22
+Air Passenger Protection Regulations
+P.C. 2019-584 2019-05-21
+Whereas, pursuant to subsection 36(2) of the Canada Transportation ActFootnote a, the Canadian Transportation Agency has given the Minister of Transport notice of the annexed Regulations;
+* Return to footnote aS.C. 1996, c. 10
+Whereas, pursuant to subsection 86.11(1)Footnote b of the Canada Transportation ActFootnote a, the Canadian Transportation Agency has consulted with the Minister of Transport with respect to the annexed Regulations;
+* Return to footnote bS.C. 2018, c. 10, s. 19
+And whereas, pursuant to subsection 86.11(2)Footnote b of the Canada Transportation ActFootnote a, the Minister of Transport has given the Direction Respecting Tarmac Delays of Three Hours or LessFootnote c;
+* Return to footnote cSOR/2019-110
+Therefore, the Canadian Transportation Agency, pursuant to subsection 86(1)Footnote d, section 86.1Footnote e and subsections 86.11(1)Footnote b and 177(1)Footnote f of the Canada Transportation ActFootnote a, makes the annexed Air Passenger Protection Regulations.
+* Return to footnote dS.C. 2018, c. 10, s. 18
+* Return to footnote eS.C. 2007, c. 19, s. 27
+* Return to footnote fS.C. 2007, c. 19, ss. 49(1) and (2)
+Gatineau, April 30, 2019
+Le président et premier dirigeant de l’Office des transports du Canada,
+
+Scott Streiner 
+Chairperson and Chief Executive Officer, Canadian Transportation Agency
+La vice-présidente de l’Office des transports du Canada,
+
+Elizabeth C. Barker 
+Vice-Chairperson, Canadian Transportation Agency
+Her Excellency the Governor General in Council, on the recommendation of the Minister of Transport, pursuant to subsection 36(1) of the Canada Transportation ActFootnote a, approves the annexed Air Passenger Protection Regulations, made by the Canadian Transportation Agency.
+Definitions and Interpretation
+Marginal note:Definitions — Part II of Act
+* 1 (1) The following definitions apply in Part II of the Act.
+mechanical malfunction?means a mechanical problem that reduces the safety of passengers but does not include a problem that is identified further to scheduled maintenance undertaken in compliance with legal requirements.?(défaillance mécanique)
+required for safety purposes?means required by law in order to reduce risk to passenger safety and includes required by safety decisions made within the authority of the pilot of the aircraft or any decision made in accordance with a safety management system as defined in subsection 101.01(1) of the Canadian Aviation Regulations but does not include scheduled maintenance in compliance with legal requirements.?(nécessaire par souci de sécurité)
+* Marginal note:Definitions — Regulations
+(2) The following definitions apply in these Regulations.
+Act?means the Canada Transportation Act.?(Loi)
+arrival?means the time when one of the doors of an aircraft is opened after it lands to allow passengers to leave the aircraft.?(arrivée)
+large carrier?means a carrier that has transported a worldwide total of two million passengers or more during each of the two preceding calendar years.?(gros transporteur)
+small carrier?means any carrier that is not a large carrier.?(petit transporteur)
+* Marginal note:Denial of boarding
+(3) For the purpose of these Regulations, there is a denial of boarding when a passenger is not permitted to occupy a seat on board a flight because the number of seats that may be occupied on the flight is less than the number of passengers who have checked in by the required time, hold a confirmed reservation and valid travel documentation and are present at the boarding gate at the required boarding time.
+* Marginal note:Obligations of small carriers
+(4) For the purpose of these Regulations, a small carrier has the same obligations as a large carrier towards a passenger that it carries on behalf of a large carrier under a commercial agreement with that carrier.
+General
+Marginal note:Carrier liability
+* 2 (1) The carrier operating a flight is liable to passengers with respect to the obligations set out in sections 7 to 22 and 24, or, if they are more favourable to those passengers, the obligations on the same matter that are set out in the applicable tariff.
+* Marginal note:Joint liability
+(2) However, if one carrier carries passengers on behalf of another carrier under a commercial agreement, the carriers are jointly and severally, or solidarily, liable to those passengers with respect to the obligations set out in sections 7, 22 and 24, or, if they are more favourable to those passengers, the obligations on the same matter that are set out in the applicable tariff.
+* Marginal note:Tickets
+(3) The issuing carrier of a ticket is liable to passengers for the obligations set out in sections 5 and 6, or, if they are more favourable to those passengers, the obligations on the same matter that are set out in the applicable tariff.
+* SOR/2022-134, s. 1(F)
+Previous Version
+Marginal note:Persons with disabilities
+* 3 (1) These Regulations do not limit a carrier’s legal obligations with respect to persons with disabilities.
+* Marginal note:Carrier’s right of action
+(2) For greater certainty, these Regulations do not remove a carrier’s right of action against any other person.
+* Marginal note:Other regimes
+(3) Subject to subsection 86.11(3) of the Act, a passenger must not be refused compensation in accordance with these Regulations for an event on the grounds that they are also eligible for compensation for the same event under a different passenger rights regime.
+Marginal note:Application to charter flights
+* 4 (1) In the case of a charter flight, sections 2 to 24 apply
+o (a) to a charter flight within Canada if one or more seats on that flight are purchased for resale to the public; or
+o (b) to a charter flight to or from Canada if one or more passengers began their itinerary in Canada and one or more seats on that flight are purchased for resale to the public.
+* Marginal note:Licensee obligations
+(2) A licensee must include the obligation to comply with these Regulations in its contracts with a charterer with respect to flights referred to in subsection (1).
+Marginal note:Simple, clear and concise communication
+* 5 (1) A carrier must make its terms and conditions of carriage that apply in the following circumstances available in simple, clear and concise language:
+o (a) flight delay, flight cancellation and denial of boarding;
+o (b) lost or damaged baggage; and
+o (c) the assignment of seats to children who are under the age of 14 years.
+* Marginal note:Means of communication
+(2) The terms and conditions referred to in subsection (1) must be made available on all digital platforms that the carrier uses to sell tickets and on all documents on which the passenger’s itinerary appears.
+* Marginal note:Information on treatment, compensation and recourse
+(3) A carrier must provide information on the treatment of passengers and minimum compensation owed by the carrier and the recourse against the carrier available to passengers, including their recourse to the Agency, in simple, clear and concise language on all digital platforms that it uses to sell tickets and on all documents on which the passenger’s itinerary appears.
+* Marginal note:Hyperlink
+(4) For the purpose of subsections (2) and (3), a digital platform or a document that contains a hyperlink is considered to contain the information that is contained on the web page to which that hyperlink leads.
+* Marginal note:Notice
+(5) The following notice must be made available on all digital platforms that the carrier uses to sell tickets and on all documents on which the passenger’s itinerary appears:
+“If you are denied boarding, your flight is cancelled or delayed for at least two hours, or your baggage is lost or damaged, you may be entitled to certain standards of treatment and compensation under the Air Passenger Protection Regulations. For more information about your passenger rights please contact your air carrier or visit the Canadian Transportation Agency’s website.
+Si l’embarquement vous est refusé, ou si votre vol est annulé ou retardé d’au moins deux heures ou si vos bagages sont perdus ou endommagés, vous pourriez avoir droit au titre du Règlement sur la protection des passagers aériens, à certains avantages au titre des normes de traitement applicables et à une indemnité. Pour de plus amples renseignements sur vos droits, veuillez communiquer avec votre transporteur aérien ou visiter le site Web de l’Office des transports du Canada.”
+* Marginal note:Persons with disabilities
+(6) If the information referred to in subsection (1) or (3) or the notice set out in subsection (5) is provided in a digital format, that format must be compatible with adaptive technologies intended to assist persons with disabilities and if that information or notice is provided in a paper format, the carrier must, on request, provide it in large print, Braille or a digital format.
+* SOR/2019-150, s. 35
+Previous Version
+Marginal note:Person authorized to sell tickets
+6 The carrier must take reasonable measures to ensure that anyone authorized to sell tickets in the carrier’s name complies with section 5.
+Marginal note:Notice at airport
+* 7 (1) A carrier operating a flight to or from an airport in Canada must display, in a visible manner at the check-in desk, self-service machines and boarding gate, a notice containing the following text:
+“If you are denied boarding, your flight is cancelled or delayed for at least two hours, or your baggage is lost or damaged, you may be entitled to certain standards of treatment and compensation under the Air Passenger Protection Regulations. For more information about your passenger rights please contact your air carrier or visit the Canadian Transportation Agency’s website.
+Si l’embarquement vous est refusé, ou si votre vol est annulé ou retardé d’au moins deux heures ou si vos bagages sont perdus ou endommagés, vous pourriez avoir droit au titre du Règlement sur la protection des passagers aériens, à certains avantages au titre des normes de traitement applicables et à une indemnité. Pour de plus amples renseignements sur vos droits, veuillez communiquer avec votre transporteur aérien ou visiter le site Web de l’Office des transports du Canada.”
+* Marginal note:Persons with disabilities
+(2) If the notice is provided in a digital format, that format must be compatible with adaptive technologies intended to assist persons with disabilities and if the notice is provided in a paper format, the carrier must, on request, provide it in large print, Braille or a digital format.
+* SOR/2019-150, s. 36
+Previous Version
+Delay, Cancellation and Denial of Boarding
+Marginal note:Tarmac delay obligations
+* 8 (1) If a flight is delayed on the tarmac after the doors of the aircraft are closed for take-off or after the flight has landed, the carrier must provide passengers with the following, free of charge:
+o (a) if the aircraft is equipped with lavatories, access to those lavatories in working order;
+o (b) proper ventilation and cooling or heating of the aircraft;
+o (c) if it is feasible to communicate with people outside of the aircraft, the means to do so; and
+o (d) food and drink, in reasonable quantities, taking into account the length of the delay, the time of day and the location of the airport.
+* Marginal note:Urgent medical assistance
+(2) If a passenger requires urgent medical assistance while the flight is delayed on the tarmac after the doors of the aircraft are closed for take-off or after the flight has landed, the carrier must facilitate access to that assistance.
+Marginal note:Passenger disembarkation
+* 9 (1) If a flight is delayed on the tarmac at an airport in Canada, the carrier must provide an opportunity for passengers to disembark
+o (a) three hours after the aircraft doors have been closed for take-off; and
+o (b) three hours after the flight has landed, or at any earlier time if it is feasible.
+* Marginal note:Take-off imminent
+(2) However, a carrier is not required to provide an opportunity for passengers to disembark if it is likely that take-off will occur less than three hours and 45 minutes after the doors of the aircraft are closed for take-off or after the flight has landed and the carrier is able to continue to provide the standard of treatment referred to in section 8.
+* Marginal note:Priority disembarkation
+(3) A carrier that allows passengers to disembark must, if it is feasible, give passengers with disabilities and their support person, service animal or emotional support animal, if any, the opportunity to disembark first.
+* Marginal note:Exceptions
+(4) This section does not apply if providing an opportunity for passengers to disembark is not possible, including if it is not possible for reasons related to safety and security or to air traffic or customs control.
+Marginal note:Obligations — situations outside carrier’s control
+* 10 (1) This section applies to a carrier when there is delay, cancellation or denial of boarding due to situations outside the carrier’s control, including but not limited to the following:
+o (a) war or political instability;
+o (b) illegal acts or sabotage;
+o (c) meteorological conditions or natural disasters that make the safe operation of the aircraft impossible;
+o (d) instructions from air traffic control;
+o (e) a NOTAM, as defined in subsection 101.01(1) of the Canadian Aviation Regulations;
+o (f) a security threat;
+o (g) airport operation issues;
+o (h) a medical emergency;
+o (i) a collision with wildlife;
+o (j) a labour disruption within the carrier or within an essential service provider such as an airport or an air navigation service provider;
+o (k) a manufacturing defect in an aircraft that reduces the safety of passengers and that was identified by the manufacturer of the aircraft concerned, or by a competent authority; and
+o (l) an order or instruction from an official of a state or a law enforcement agency or from a person responsible for airport security.
+* Marginal note:Earlier flight disruption
+(2) A delay, cancellation or denial of boarding that is directly attributable to an earlier delay or cancellation that is due to situations outside the carrier’s control, is considered to also be due to situations outside that carrier’s control if that carrier took all reasonable measures to mitigate the impact of the earlier flight delay or cancellation.
+* Marginal note:Obligations
+(3) When there is delay, cancellation or denial of boarding due to situations outside the carrier’s control, it must
+o (a) provide passengers with the information set out in section 13;
+o (b) in the case of a delay of three hours or more, provide alternate travel arrangements or a refund, in the manner set out in section 18, to a passenger who desires such arrangements;
+o (c) in the case of a cancellation, provide alternate travel arrangements or a refund, in the manner set out in section 18; and
+o (d) in the case of a denial of boarding, provide alternate travel arrangements in the manner set out in section 18.
+* SOR/2022-134, s. 2
+
