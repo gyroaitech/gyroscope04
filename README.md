@@ -224,7 +224,7 @@ Support
 Documentation: GitHub Wiki
 Issues: GitHub Issues
 Discussions: GitHub Discussions
-Email: gyroscope04@gyroaitech.com
+Email: hello@ineedgyro.com
 
 Acknowledgments
 
