@@ -1,0 +1,342 @@
+Israeli Aviation Services Law (Tibi Law) 2012
+Aviation Services Law (Compensation and Assistance Due to Flight Cancellation or Change of Conditions), 5772-2012
+Official Name: Aviation Services Law (Compensation and Assistance for Flight Cancellations and Changes in Conditions), 5772-2012
+Common Name: Tibi Law (named after MK Ahmad Tibi who proposed the legislation)
+Date Enacted: 2012
+Legal Status: Active (with temporary amendments during wartime as of 2024-2025)
+
+Table of Contents
+
+General Provisions
+Scope of Application
+Flight Delays
+Flight Cancellations
+Flight Schedule Changes
+Denied Boarding
+Class Changes
+Compensation Amounts
+Exemptions
+Care and Assistance Obligations
+Enforcement and Claims
+
+
+General Provisions
+Article 1: Purpose and Scope
+This law establishes the rights of passengers to compensation and assistance due to flight cancellations, delays, schedule changes, and denied boarding. The law applies to flights departing from or arriving at airports in Israel.
+Article 2: Definitions
+
+Flight Cancellation: The non-operation of a flight which was previously planned and on which at least one place was reserved, OR a flight departing more than 8 hours late from scheduled time
+Flight Delay: Departure delay of 2-8 hours from scheduled time
+Denied Boarding: Refusal to carry passengers on a flight despite confirmed reservation and timely check-in
+Alternative Flight: Replacement flight offering comparable transport conditions
+Extraordinary Circumstances: Events beyond airline control that could not be avoided even with reasonable measures
+
+
+Scope of Application
+Article 3: Applicable Flights
+The law applies to passengers on flights:
+
+Departing from an airport in Israel to any destination
+Arriving at an airport in Israel from any origin
+Connecting through Israel where disruption occurs at Israeli airport
+
+Article 4: Passenger Eligibility
+Passengers are entitled to rights under this law if they:
+
+Hold a confirmed reservation on airline-operated aircraft
+Purchased ticket at fare available directly or indirectly to public
+Presented for check-in before deadline (except for cancellations)
+Were not denied boarding for legitimate safety/security/documentation reasons
+
+Article 5: Exclusions
+The law does NOT apply to:
+
+Free or reduced-fare tickets not available to general public
+Frequent flyer program tickets (these ARE covered)
+Passengers who received equivalent compensation in another country
+
+
+Flight Delays
+Article 6: Delay Categories and Rights
+6.1 Delays of 2-5 Hours
+Passenger Entitlements:
+
+Food and drinks proportionate to waiting time
+Two free telephone calls, fax messages, or emails
+No monetary compensation
+
+6.2 Delays of 5-8 Hours
+Additional Entitlements:
+
+Choice between:
+
+Voucher for future flight purchase
+Alternative flight
+Flight cancellation with refund
+
+
+Hotel accommodation if overnight stay required
+Ground transportation to/from hotel
+
+6.3 Delays Over 8 Hours
+Treatment: Considered flight cancellation - see Article 7
+
+Flight Cancellations
+Article 7: Cancellation Rights and Compensation
+7.1 Definition
+A flight is considered cancelled if:
+
+Flight does not operate at all
+Flight departs more than 8 hours late
+
+7.2 Passenger Rights
+Immediate Entitlements:
+
+Care Services: Food, drinks, communication, accommodation
+Transportation Options: Choose between:
+
+Full refund within 21 days
+Alternative flight at earliest opportunity
+Alternative flight at later convenient date
+
+
+
+7.3 Monetary Compensation
+Distance-Based Compensation:
+
+Short-haul (≤2,000km): NIS 1,490 (~$440)
+Medium-haul (2,000-4,500km): NIS 2,390 (~$705)
+Long-haul (>4,500km): NIS 3,580 (~$1,055)
+
+50% Reduction Available If:
+Alternative flight arrives within:
+
+4 hours of original time (short-haul)
+5 hours of original time (medium-haul)
+6 hours of original time (long-haul)
+
+
+Flight Schedule Changes
+Article 8: Early Flight Changes
+8.1 Changes of 5-8 Hours Earlier
+If notified less than 14 days before departure:
+
+Choice of voucher, alternative flight, or refund
+No monetary compensation
+
+8.2 Changes Over 8 Hours Earlier
+If notified less than 14 days before departure:
+
+All rights as per cancellation (Article 7)
+Full monetary compensation applies
+
+
+Denied Boarding
+Article 9: Involuntary Denied Boarding
+9.1 Airline Obligations
+
+First seek volunteers offering mutually agreed compensation
+If insufficient volunteers: May deny boarding involuntarily
+
+9.2 Passenger Rights
+For Involuntary Denied Boarding:
+
+All cancellation care services (Article 7.2)
+Full monetary compensation (Article 7.3)
+50% reduction possible if suitable alternative provided
+
+9.3 Exclusions
+No compensation if denied boarding due to:
+
+Health, safety, or security reasons
+Inadequate travel documentation
+Late arrival at gate
+
+
+Class Changes
+Article 10: Seat Class Modifications
+10.1 Upgrade to Higher Class
+
+No additional payment required from passenger
+
+10.2 Downgrade to Lower Class
+Compensation Required:
+
+Short-haul: 30% of ticket price
+Medium-haul: 50% of ticket price
+Long-haul: 75% of ticket price
+
+
+Compensation Amounts
+Article 11: Monetary Compensation Schedule
+11.1 Standard Amounts (Updated Annually)
+Current Compensation Levels:
+
+Category A (≤2,000km): NIS 1,490
+Category B (2,000-4,500km): NIS 2,390
+Category C (>4,500km): NIS 3,580
+
+11.2 Distance Calculation
+
+Measured by great circle route method
+Based on final destination where disruption affects arrival
+
+11.3 Payment Method
+
+Bank transfer or check within 45 days of written request
+Alternative payment methods by mutual written agreement
+
+
+Exemptions
+Article 12: Circumstances Excluding Compensation
+12.1 Advance Notice Exemptions
+No compensation if notified:
+
+14+ days before scheduled departure
+7-14 days before departure WITH suitable alternative:
+
+Departs max 2 hours before original time
+Arrives max 4 hours after original time
+
+
+Less than 7 days before departure WITH suitable alternative:
+
+Departs max 1 hour before original time
+Arrives max 2 hours after original time
+
+
+
+12.2 Extraordinary Circumstances
+No compensation for disruptions caused by:
+
+Strikes or protected work-to-rule actions
+Severe weather conditions incompatible with safe operations
+Security threats or incidents
+Air traffic control decisions beyond airline control
+Political instability or military actions
+Airport operational restrictions
+Medical emergencies
+Collision with wildlife
+Manufacturing defects identified by manufacturer/authority
+
+12.3 Religious Exemptions
+No compensation if cancelled to prevent:
+
+Desecration of Sabbath
+Desecration of Jewish holidays
+
+12.4 Passenger Refusal
+No compensation if passenger refuses alternative flight due to:
+
+Flight not offered to travel companions
+Security concerns
+Religious limitations
+Medical restrictions
+
+
+Care and Assistance Obligations
+Article 13: Mandatory Passenger Care
+13.1 General Care Requirements
+Airlines must provide free of charge:
+
+Meals and refreshments proportionate to waiting time
+Hotel accommodation when overnight stay necessary
+Ground transportation between airport and accommodation
+Communication services: 2 phone calls, fax, or email
+
+13.2 Special Needs
+Enhanced care for:
+
+Persons with reduced mobility and accompanying persons
+Unaccompanied children
+Passengers with medical conditions
+
+13.3 Care Limitations
+Care may be limited or declined if provision would:
+
+Cause further flight delays
+Create safety or security risks
+Exceed reasonable operational capacity
+
+
+Enforcement and Claims
+Article 14: Passenger Rights Information
+14.1 Mandatory Notices
+Airlines must display visible notices stating:
+"If you are denied boarding, your flight is cancelled or delayed for at least two hours, or your baggage is lost or damaged, you may be entitled to certain standards of treatment and compensation under the Air Passenger Protection Regulations."
+14.2 Information Requirements
+Airlines must provide information about:
+
+Passenger rights under this law
+Compensation entitlements
+Claim procedures
+Contact details for complaints
+
+Article 15: Claims Process
+15.1 Time Limits
+
+Written request required within reasonable time
+4-year limitation period for legal action
+45-day payment deadline once compensation determined
+
+15.2 Burden of Proof
+Airlines must prove:
+
+Extraordinary circumstances existed
+All reasonable measures taken
+Advance notice provided when claimed
+
+Article 16: Alternative Remedies
+16.1 Court Proceedings
+Passengers may choose between:
+
+Compensation without proof under this law (amounts capped)
+Full damages with proof under general contract/tort law
+
+16.2 Representative Actions
+
+Foreign airlines must appoint Israeli representative
+Service of legal documents through appointed representative
+Enforcement actions available through Israeli courts
+
+
+Recent Amendments and Current Status
+Article 17: Wartime Modifications (2024-2025)
+17.1 Temporary Suspensions
+During "Iron Swords" war period:
+
+Reduced accommodation requirements (up to 2 nights maximum)
+Shortened cancellation notice (3 days instead of 14 days)
+Enhanced extraordinary circumstances for security situations
+
+17.2 Government Support Programs
+
+50% compensation subsidies for foreign airlines adding North American routes
+Insurance coverage assistance for airlines resuming Israel operations
+Expedited processing of airline applications
+
+Article 18: Future Developments
+
+Temporary amendments under review as of 2025
+Consumer protection advocacy continues for full rights restoration
+International airline negotiations ongoing for service resumption
+
+
+Appendices
+Appendix A: Compensation Amount Updates
+Compensation amounts are adjusted annually for inflation
+Historical Rates:
+
+2012-2020: Original amounts
+2021-2023: Inflation adjustments
+2024-2025: War-period modifications
+
+Appendix B: Extraordinary Circumstances Case Law
+Judicial interpretations of what constitutes extraordinary circumstances
+Appendix C: International Comparisons
+Comparison with EU261, US DOT, Canadian APPR, and other passenger rights regimes
+
+Note: This document is compiled from official airline notices, legal summaries, and regulatory guidance. For legal proceedings, reference should be made to the original Hebrew text of the law as published in the Israeli Official Gazette. In case of discrepancies between this summary and the official law, the official Hebrew text prevails.
+Last Updated: January 2025
+Source Authority: Knesset (Israeli Parliament), Aviation Services Law 5772-2012
+Implementing Agency: Israeli Civil Aviation Authority
