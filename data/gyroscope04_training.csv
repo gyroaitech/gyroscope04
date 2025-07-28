@@ -1,3 +1,4 @@
+Scenario,Analysis
 "Lufthansa LH441 from Frankfurt to New York delayed 4 hours due to technical malfunction on March 15, 2024. Passenger seeks compensation.","ELIGIBLE: Yes<br>REGULATION: EU261<br>AMOUNT: €600<br>REASON: Long-haul flight delayed >3 hours due to airline technical issue<br>CONFIDENCE: 95%"
 "Ryanair FR8542 Dublin to Barcelona delayed 6 hours due to severe thunderstorm with airport closure on July 10, 2024.","ELIGIBLE: No<br>REGULATION: EU261<br>AMOUNT: €0<br>REASON: Extraordinary circumstances - severe weather beyond airline control<br>CONFIDENCE: 98%"
 "British Airways BA178 London to Paris delayed 2.5 hours due to crew shortage on June 5, 2024.","ELIGIBLE: No<br>REGULATION: EU261<br>AMOUNT: €0<br>REASON: Delay under 3 hours, no compensation required<br>CONFIDENCE: 92%"
